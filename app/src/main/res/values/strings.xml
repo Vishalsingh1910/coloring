@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Colors</string>
+    <string name="Colors">Colors</string>
+    <string name="red_channel">red channel</string>
+    <string name="green_channel">Green channel</string>
+    <string name="blue_channel">Blue channel</string>
+</resources>
